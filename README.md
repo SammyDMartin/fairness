@@ -1,2 +1,0 @@
-# fairness
-STAI group project
